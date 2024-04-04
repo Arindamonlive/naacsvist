@@ -15,7 +15,7 @@ const Ep = () => {
   return (
     <div data-aos='fade-down' id="Committee" className='font-arial'>
       <h1 className="" style={{ backgroundImage: `url(${img})`, backgroundSize: "cover" }}><ul className='text-[40px] lg:py-5 ml-10 flex flex-col justify-center font-bold text-white'>NAAC Cycle 2(Extended Profile)</ul></h1>
-      <div data-aos='fade-down' className="container flex items-start ">
+      <div data-aos='fade-down' className="container flex items-center ">
         <div className=" grid grid-rows-1 gap-1 ">
           <div className="px-8">
             <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">1. Students</h2>

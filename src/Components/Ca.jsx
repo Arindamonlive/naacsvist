@@ -22,10 +22,10 @@ const Ca = () => {
             <div className="px-8">
               <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">1.1 Curricular Planning and Implementation</h2>
               <p className="text-[16px]"> 1.1.1 The Institution ensures effective curriculum planning and delivery through a well-planned and documented process including Academic calendar and conduct of continuous internal Assessment</p>
-              <a href="src\assets\Writeup.pdf" className="text-blue-800 font-bold py-2">Click Here</a>
+              <a href="https://onedrive.live.com/download?resid=8D7E2F495E237F23%21119&authkey=!AKkHPAyd5TvVGlw&em=2" className="text-blue-800 font-bold py-2">Write Up</a>
               <div className="px-4 py-4">
-                <a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.1.1_1708062291_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Supporting Documents</a>
-                <p className=""><a href="https://svist.org/naacnew/1.1.1Writeup_Supporting_Documents.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Additional Information</a></p>
+                <a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.1.1_1708062291_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.1.1 Index</a>
+                <p className=""><a href="https://svist.org/naacnew/1.1.1Writeup_Supporting_Documents.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.1.1 Supporting Document</a></p>
               </div>
             </div>
             <div className="px-8">
@@ -85,8 +85,8 @@ const Ca = () => {
                 </tbody>
               </table>
               <div className="px-4 py-4">
-                <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.2.2_1708071781_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Supporting Documents</a></p>
-                <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.2.2_1708067754_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Additional Information</a></p>
+                <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.2.2_1708071781_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.2.2 Index of Supporting Documents</a></p>
+                <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.2.2_1708067754_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.2.2 Institutional data</a></p>
               </div>
             </div>
 
@@ -99,9 +99,9 @@ const Ca = () => {
               <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">1.3 Curriculum Enrichment</h2>
               <p className="text-[16px]"> 1.3.1 Institution integrates crosscutting issues relevant to Professional Ethics, Gender, Human Values, Environment and Sustainability in transacting the Curriculum
                 the last five years</p>
-              <a href="src\assets\Writeup2.pdf" className="text-blue-800 font-bold py-2">Click Here</a>
-              <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.3.1_1708063957_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Supporting Documents</a></p>
-              <p className=""><a href="https://svist.org/naacnew/1.3.1Supporting_Documents.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Additional Information</a></p>
+              <a href="https://onedrive.live.com/download?resid=8D7E2F495E237F23%21118&authkey=!AEN8SEIHA6powm8&em=2" className="text-blue-800 font-bold py-2">Write Up</a>
+              <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.3.1_1708063957_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.3.1 Index of Supporting Documents</a></p>
+              <p className=""><a href="https://svist.org/naacnew/1.3.1Supporting_Documents.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.3.1 Institutional data</a></p>
             </div>
 
 
@@ -111,8 +111,8 @@ const Ca = () => {
               <p className="font-bold py-2">Response: 82.36 %</p>
               <p className="text-[16px]">1.3.2.1 Number of students undertaking project work/field work / internships</p>
               <p className="font-bold py-2">Response: 1158</p>
-              <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.3.2_1708064171_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Supporting Documents</a></p>
-              <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.3.2_1708073055_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">Additional Information</a></p>
+              <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.3.2_1708064171_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.3.2.1 Index of Supporting Documents</a></p>
+              <p className=""><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/1.3.2_1708073055_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">1.3.2.1 Institutional data</a></p>
             </div>
             <div className="px-8 py -6">
               <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">1.4 Feedback System</h2>

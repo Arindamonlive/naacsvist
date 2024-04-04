@@ -16,7 +16,7 @@ const Tle = () => {
     <div data-aos='fade-down' id="Committee" className='font-arial'>
       <h1 className="" style={{ backgroundImage: `url(${img})`, backgroundSize: "cover" }}><ul className='text-[40px] lg:py-5 ml-10 flex flex-col justify-center font-bold text-white'>NAAC Cycle 2( Teaching-learning and Evaluation)</ul></h1>
       <div data-aos='fade-down' className="container flex items-start ">
-      <div className="grid grid-cols-2 gap-1">
+        <div className="grid grid-rows-2 gap-1">
           <div className=" grid grid-cols-1 gap-1 ">
             <div className="px-8">
               <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">2.1 Student Enrollment and Profile</h2>
@@ -164,13 +164,18 @@ const Tle = () => {
           </div>
           <div className="px-8 ">
             <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">2.2 Student Teacher Ratio</h2>
-              <p className="text-[16px]"> 2.2.1 Student – Full time Teacher Ratio (Data for the latest completed academic year)</p>
-              <p className="text-[16px] font-semibold"> Response:</p><p className="">14.96 %</p>
-
-             
-            </div>
+            <p className="text-[16px]"> 2.2.1 Student – Full time Teacher Ratio (Data for the latest completed academic year)</p>
+            <p className="text-[16px] font-semibold"> Response:</p><p className="">14.96 %</p>
           </div>
-        
+          <div className="px-8 ">
+            <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">2.3 Teaching- Learning Process</h2>
+            <p className="text-[16px]"> 2.3.1
+              Student centric methods, such as experiential learning, participative learning and problem solving methodologies are used for enhancing learning experiences and teachers use ICT- enabled tools including online resources for effective teaching and learning process
+            </p>
+            <p className="text-[16px] font-semibold"> Response:</p><p className="">14.96 %</p>
+          </div>
+        </div>
+
       </div>
     </div>
   )
