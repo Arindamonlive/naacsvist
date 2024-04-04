@@ -32,19 +32,19 @@ const Nc2 = () => {
                   <ul className="">
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ep">Extended Profile</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ca">Curricular Aspects</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ca">Criteria 1 - Curricular Aspects</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/tle">Teaching-learning and Evaluation</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/tle">Criteria 2 - Teaching-learning and Evaluation</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/rie">Research, Innovations and Extension</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/rie">Criteria 3 - Research, Innovations and Extension</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ilr">Infrastructure and Learning Resources</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ilr">Criteria 4 - Infrastructure and Learning Resources</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ssp">Student Support and Progression</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ssp">Criteria 5 - Student Support and Progression</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/glm">Governance, Leadership and Management</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/glm">Criteria 6 - Governance, Leadership and Management</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ivbp">Institutional Values and Best Practices</Link>
+                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ivbp">Criteria 7 - Institutional Values and Best Practices</Link>
                     </li>
 
 
