@@ -28,8 +28,8 @@ const Nc2 = () => {
               <ul className="lg: py-6">
                 <p className="text-[18px] lg:px-10 py-2 text-justify">
                 </p>
-                <h2 className="text-[16px] lg:px-10 py:5 ">Swami Vivekananda Institute of Science and Technology (SVIST) is one of the leading engineering colleges in West Bengal. It is now a NAAC Accredited institution. This feat has been achieved due to the initiatives taken to ensure the best quality of education through advanced curriculum, infrastructure, learning evaluation, governance, management, innovations and industry best practices. SVIST is a futuristic engineering institute, and is committed to maintain NAAC quality parameters for continuously improving and contributing towards augmenting the dimensions of technological higher learning. 
-                  <p className=""><a href="https://onedrive.live.com/download?resid=8D7E2F495E237F23%21120&authkey=!AFgR1CrMqYmSa1o&em=2" className="py-8 font-semibold text-blue-800">SSR</a></p>
+                <h2 className="text-[16px] lg:px-10 py:5 "> 
+                  <p className=""><a href="https://onedrive.live.com/download?resid=8D7E2F495E237F23%21121&authkey=!AJt6aKyt2mAsUWA&em=2" className="py-4 font-semibold text-blue-800">NAAC SSR 2024</a></p>
                   <ul className="">
                     <li className="text-[14px] lg:px-5 py-4 font-semibold text-blue-800"><Link to="/ep">Extended Profile</Link>
                     </li>
