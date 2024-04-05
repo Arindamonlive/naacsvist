@@ -61,9 +61,9 @@ const Ilr = () => {
                   </tbody>
                 </table>
                 <div className="px-4 py-4">
-                <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.1.2_1708175640_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.1.2.1 Institutional data</a></p>
-                <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.1.2_1708519457_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.1.2.1 Audited income and expenditure statement</a></p>
-              </div>
+                  <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.1.2_1708175640_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.1.2.1 Institutional data</a></p>
+                  <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.1.2_1708519457_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.1.2.1 Audited income and expenditure statement</a></p>
+                </div>
               </div>
             </div>
             <div className="px-8 ">
@@ -78,7 +78,7 @@ const Ilr = () => {
             <div className="px-8 ">
               <h2 className="text-[18px] font-bold mb-4 lg:py-4 relative border-b-2 border-transparent transition-all duration-300 hover:border-yellow-500 hover:shadow-glow">4.3 IT Infrastructure</h2>
               <p className="text-[16px]"> 4.3.1 Institution frequently updates its IT facilities and provides sufficient bandwidth for internet connection</p>
-                <div className="px-4 py-4">
+              <div className="px-4 py-4">
                 <p className="mb-4"><a href="https://svist.org/naacnew/Writeup12.pdf" target="_blank" rel="noopener noreferrer" className="font-bold text-blue-800">Write up</a></p>
                 <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.3.1_1708182432_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.3.1 Index of Additional Information</a></p>
                 <p className="mb-4"><a href="https://svist.org/naacnew/431Additionalinformation.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.3.1 Additional Information</a></p>
@@ -89,9 +89,9 @@ const Ilr = () => {
                 <p className="text-[16px]"> 4.3.2.1 Number of computers available for students usage during the latest completed academic year:</p>
                 <p className="text-[16px] font-semibold"> Response:</p><p className="">320</p>
                 <div className="px-4 py-4">
-                <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.3.2_1708182472_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.3.2 Purchased Bills/Copies</a></p>
-                <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.3.2_1708182494_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.3.2 Extracts stock register/ highlighting the computers</a></p>
-              </div>
+                  <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.3.2_1708182472_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.3.2 Purchased Bills/Copies</a></p>
+                  <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.3.2_1708182494_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-semibold text-blue-800">4.3.2 Extracts stock register/ highlighting the computers</a></p>
+                </div>
               </div>
             </div>
             <div className="px-8 ">
@@ -130,12 +130,12 @@ const Ilr = () => {
                     </tr>
                   </tbody>
                 </table>
-              
+
                 <div className="px-4 py-4">
-                <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.4.1_1708176122_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-bold text-blue-800">4.4.1 Institutional data</a></p>
-                <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.4.1_1708519318_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-bold text-blue-800">4.4.1 Audited income and expenditure statement</a></p>
-              
-              </div>
+                  <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.4.1_1708176122_13845.xlsx" target="_blank" rel="noopener noreferrer" className="font-bold text-blue-800">4.4.1 Institutional data</a></p>
+                  <p className="mb-4"><a href="https://assessmentonline.naac.gov.in/storage/app/hei/SSR/101780/4.4.1_1708519318_13845.pdf" target="_blank" rel="noopener noreferrer" className="font-bold text-blue-800">4.4.1 Audited income and expenditure statement</a></p>
+
+                </div>
               </div>
 
             </div>

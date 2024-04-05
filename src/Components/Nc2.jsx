@@ -42,9 +42,9 @@ const Nc2 = () => {
                     </li>
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ilr">Criteria 4 - Infrastructure and Learning Resources</Link>
                     </li>
-                    {/*<li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ssp">Criteria 5 - Student Support and Progression</Link>
+                   <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ssp">Criteria 5 - Student Support and Progression</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/glm">Criteria 6 - Governance, Leadership and Management</Link>
+                    {/*<li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/glm">Criteria 6 - Governance, Leadership and Management</Link>
                     </li>
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ivbp">Criteria 7 - Institutional Values and Best Practices</Link>
                     </li> */}
