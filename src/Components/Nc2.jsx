@@ -38,7 +38,7 @@ const Nc2 = () => {
                     </li>
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/tle">Criteria 2 - Teaching-learning and Evaluation</Link>
                     </li>
-                    <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/rie">Criteria 3 - Research, Innovations and Extension</Link>
+                    {/* <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/rie">Criteria 3 - Research, Innovations and Extension</Link>
                     </li>
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ilr">Criteria 4 - Infrastructure and Learning Resources</Link>
                     </li>
@@ -47,7 +47,7 @@ const Nc2 = () => {
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/glm">Criteria 6 - Governance, Leadership and Management</Link>
                     </li>
                     <li className="text-[14px] lg:px-5 py-1 font-semibold text-blue-800"><Link to="/ivbp">Criteria 7 - Institutional Values and Best Practices</Link>
-                    </li>
+                    </li> */}
 
 
                   </ul>
